@@ -18,10 +18,11 @@ Add the dependency
 ```
 new StickyHeaderDecoration(this);
 ```
-![Preview](screenshots/stylekeepheader.png)
+<img src="screenshots/stylekeepheader.png" width="300" height="533">
+
 
 # Style NonKeep Header:
 ```
 new StickyHeaderDecoration(this, false);
 ```
-![Preview](screenshots/stylenonkeepheader.png)
+<img src="screenshots/stylenonkeepheader.png" width="300" height="533">
