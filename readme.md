@@ -1,4 +1,6 @@
 # Setup
+[![](https://jitpack.io/v/nhancv/nc-android-sticky-header.svg)](https://jitpack.io/#nhancv/nc-android-sticky-header)
+
 Add it in your root build.gradle at the end of repositories:
 
 	allprojects {
